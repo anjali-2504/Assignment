@@ -206,13 +206,18 @@ Summary Response from the transformer:
 
 ## Results of the Agent to Human Query
 
-> "What are some milestone model architectures and papers in the last few years?" 
+> "What are some milestone model architectures and papers in the last few years?"
+
 _Some milestone model architectures and papers in the last few years include:_
 
 _1. BERT (Bidirectional Encoder Representations from Transformers) - Devlin et al., 2018_
+
 _2. GPT-2 (Generative Pre-trained Transformer 2) - Radford et al., 2019_
+
 _3. T5 (Text-to-Text Transfer Transformer) - Raffel et al., 2019_
+
 _4. GPT-3 (Generative Pre-trained Transformer 3) - Brown et al., 2020_
+
 _5. RoBERTa (A Robustly Optimized BERT Approach) - Liu et al., 2019_
 
 _These models have significantly advanced the field of natural language processing and have been instrumental in various NLP tasks and applications._
